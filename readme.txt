@@ -1,2 +1,2 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
+你好啊，我修改了第一个次，进行了add
+我修改了第二次，没有进行add
