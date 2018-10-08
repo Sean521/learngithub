@@ -2,4 +2,4 @@
 我修改了第二次，没有进行add
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
-我又增加了一行
+我feater又增加了一行
