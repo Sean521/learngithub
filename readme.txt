@@ -5,3 +5,5 @@ Creating a new branch is quick AND simple.
 
 测试分支管理策略 强制禁用Fast forward模式
 
+可以把当前工作现场“储藏”起来，等以后恢复现场后继续工作：修改bug issue-101
+
