@@ -2,3 +2,6 @@
 我修改了第二次，没有进行add
 Creating a new branch is quick AND simple.
 我feater又增加了一行
+
+测试分支管理策略 强制禁用Fast forward模式
+
